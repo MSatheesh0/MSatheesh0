@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Satheesh M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0N6N_Sdk26VjjtuJMij2JT&ust=1754399315899000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDA7_Kc8Y4DFQAAAAAdAAAAABAK">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msatheesh0&label=Profile%20views&color=0e75b6&style=flat" alt="msatheesh0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msatheesh0" alt="msatheesh0" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Holistic Harmony: Customized Ayurveda for Modern Living](https://github.com/MSatheesh0/healthapp)
 
